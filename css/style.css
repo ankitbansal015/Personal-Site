@@ -98,8 +98,8 @@ padding: 30px 0px 20px 0px;
 }
 .boy-img{
   position: absolute;
-  left:400px;
-  top: 20px;
+  left:30%;
+  top: 5%;
   /* float:left; */
   /* margin-left: 20px;
   margin-top: 0px; */
@@ -116,13 +116,13 @@ padding: 30px 0px 20px 0px;
 }
 .cal3-img{
   position: absolute;
-  right:3px;
-  top: 2030px;
+  right:0.2%;
+  top: 309%;
 }
 .cal4-img{
   position: absolute;
-  left:3px;
-  top:2030px;
+  left:0.2%;
+  top:309%;
 }
 .btn {
   background: #3498db;
